@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\Uploads\\924d00fc-9072-45c5-975a-a693f4e55035.png",
+      "PackagePath": "staticwebassets\\Uploads\\924d00fc-9072-45c5-975a-a693f4e55035.png"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\Uploads\\catedral.png",
+      "PackagePath": "staticwebassets\\Uploads\\catedral.png"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\Uploads\\cien.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\cien.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\Uploads\\congo.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\congo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\Uploads\\db444193-9aa7-45d5-b00e-aeccf6272500.png",
+      "PackagePath": "staticwebassets\\Uploads\\db444193-9aa7-45d5-b00e-aeccf6272500.png"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\Uploads\\guerra.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\guerra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\Uploads\\hp.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\hp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\Uploads\\lazarillo.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\lazarillo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\Uploads\\quijote.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\quijote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\Uploads\\viajera.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\viajera.jpg"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\carlo\\documentos\\programacion\\c#poo\\aspnet\\src\\appstore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Appstore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Appstore.props",
+      "PackagePath": "build\\Appstore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Appstore.props",
+      "PackagePath": "buildMultiTargeting\\Appstore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Appstore.props",
+      "PackagePath": "buildTransitive\\Appstore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
